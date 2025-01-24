@@ -17,17 +17,17 @@ The analysis focuses on:
 
 ### Key Insights and Queries
 
-Top Performing Regions:
+Top Performing Regions - 
 Identify regions with the highest total sales and their contribution to overall revenue.
 
-Best-Selling Products:
+Best-Selling Products - 
 Highlight the most popular products based on revenue and customer demand.
 
-Team Performance:
+Team Performance - 
 Compare team performance across different regions and product categories.
 
-Product Size Preferences:
+Product Size Preferences - 
 Analyze customer preferences for different product sizes and their impact on sales.
 
-Salesperson Achievements:
+Salesperson Achievements - 
 Recognize top-performing salespersons based on revenue and customer reach.
