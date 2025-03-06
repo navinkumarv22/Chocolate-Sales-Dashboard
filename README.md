@@ -24,10 +24,7 @@ Best-Selling Products -
 Highlight the most popular products based on revenue and customer demand.
 
 Team Performance - 
-Compare team performance across different regions and product categories.
-
-Product Size Preferences - 
-Analyze customer preferences for different product sizes and their impact on sales.
+Compare team performance by units sold.
 
 Salesperson Achievements - 
-Recognize top-performing salespersons based on revenue and customer reach.
+Recognize top-performing salespersons based on sales.
